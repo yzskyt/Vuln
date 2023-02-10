@@ -1,4 +1,4 @@
-# Go-RT-AC750 Command Injection Vulnerabilit
+# Go-RT-AC750 Command Injection Vulnerability
 ## General Information
 Vendor: D-Link
 
