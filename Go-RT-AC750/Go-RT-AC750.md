@@ -1,8 +1,11 @@
 # Go-RT-AC750 Command Injection Vulnerabilit
 ## General Information
 Vendor: D-Link
+
 Affected Product: Go-RT-AC750
+
 Firmware version: revA_v101b03
+
 Vendor Homepage: https://www.dlink.com/en/consumer
 
 ## Vulnerability description
